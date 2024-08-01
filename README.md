@@ -11,7 +11,7 @@ To down load the code click "here"
 ##### Interactions
 By using the arrows on the keybord you will be able to move the character Up, Down, Left, and Right.
 
-###### Troubleshooting
+##### Troubleshooting
 If anything were to go wrong in the code you can simply close the tab and restart the code the same way you started it the first time 
 
 
