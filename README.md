@@ -15,6 +15,8 @@ By using the arrows on the keybord you will be able to move the character Up, Do
 If anything were to go wrong in the code you can simply close the tab and restart the code the same way you started it the first time 
 
 
-Big thanks to the Tufts Coding Academy 2024 for giving us the oppurtunity to learn python
+
+- Austin Robinson
+ Tufts Coding Academy 2024
 
 
