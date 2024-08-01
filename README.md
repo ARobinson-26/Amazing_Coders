@@ -8,7 +8,6 @@ To down load the code click "here"
 
 #### Running the code
 
-
 ##### Interactions
 By using the arrows on the keybord you will be able to move the character Up, Down, Left, and Right.
 
