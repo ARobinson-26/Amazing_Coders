@@ -16,6 +16,6 @@ If anything were to go wrong in the code you can simply close the tab and restar
 
 
 
-- Austin Robinson, Jack Reira, Brendan Corkery, Quinn Shriver, James Shriver                Tufts Coding Academy 2024
+- Created by Austin Robinson, Jack Reira, Brendan Corkery, Quinn Shriver, James Shriver; Tufts Coding Academy 2024
 
 
